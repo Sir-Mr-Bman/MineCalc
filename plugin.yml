@@ -1,0 +1,7 @@
+name: MineCalc
+version: 1.3
+main: me.bman.minecalc.Header
+description: An ingame calculator!
+commands:
+  calc:
+    description: The main command for MineCalc
